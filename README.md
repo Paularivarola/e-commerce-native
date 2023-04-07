@@ -16,12 +16,14 @@ Mobile App desarrollada en 15 días como challenge grupal durante mi transcurso 
 
 ## Empezamos! 🚀
 
-bash
+```bash
 # Instalar dependencias para el cliente
 npm install
 
 # Ejecutar
 expo start
+```
+
 
 
 ## Tecnologías 🛠️
